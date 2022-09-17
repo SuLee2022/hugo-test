@@ -3,7 +3,7 @@ widget: pages
 widget_id: home-event
 headless: true
 weight: 5
-title: Upcoming Events
+title: Upcoming Courses
 subtitle: null
 content:
   page_type: event
