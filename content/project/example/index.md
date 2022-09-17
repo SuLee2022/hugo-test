@@ -9,10 +9,10 @@ subtitle: Professional Certification
 featured: true
 tags:
   - Industry Certification
-  - Business
-  - Arts
 external_link: ""
 url_slides: ""
+categories:
+  - Industry Certification
 links:
   - icon: linkedin
     icon_pack: fab
