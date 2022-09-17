@@ -16,11 +16,13 @@ content:
     - name: Other
       tag: Demo
 design:
-  columns: "2"
+  columns: "1"
   view: 2
   flip_alt_rows: false
   background:
     color: "#ffffff"
-    image: screenshot-2022-09-17-235308.jpg
+    image: ""
     image_darken: 0
+    gradient_start: "#000000"
+    gradient_end: "#1d598b"
 ---
