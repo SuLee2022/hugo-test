@@ -8,9 +8,7 @@ title: NICF – BUSINESS INNOVATION WITH BLOCKCHAIN TECHNOLOGY CERTIFICATE
 subtitle: Professional Certification
 featured: true
 tags:
-  - Industry Certification
   - Business
-  - Arts
 external_link: ""
 url_slides: ""
 links:
