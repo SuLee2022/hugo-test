@@ -2,7 +2,7 @@
 widget: portfolio
 widget_id: home-filter
 headless: true
-weight: 1
+weight: 2
 title: "Professional Certificates "
 subtitle: G﻿et job ready for and break into an in-demand career
 content:
