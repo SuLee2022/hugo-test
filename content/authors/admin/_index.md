@@ -1,8 +1,7 @@
 ---
-title: "About "
+title: About
 role: ""
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests: []
 social:
   - icon: envelope
@@ -30,7 +29,3 @@ During the pandemic, the demand for industry-related certifications soared, and 
 We have graduated over 2,000 learners in the past 2 years and look forward to growing with our training partners to meet the demand for professional development and certification courses in Singapore.
 
 As the market evolves, the learning needs of our learners corresponded with the market hiring demand as employers are seeking to employ new hires with specific industry-related skills. WE ASIA recognize the shift of training demand to more specific industry-related certifications and to meet the needs of our learners, WE Asia will partner our learners & training providers in a marketplace environment to provide the required training & certification – and to be the “go-to” brand for certifications.
-
-
-
-{{< icon name="download" pack="fas" >}} Download our {{< course_catalogue.pdf" "newtab" >}} catalogue{{< /staticref >}}.
