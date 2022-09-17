@@ -8,9 +8,8 @@ title: CYBER SECURITY CERTIFICATE (ETHICAL HACKER CEH v11)
 subtitle: Professional Certification
 featured: true
 tags:
-  - Industry Certification
-  - Business
-  - Arts
+  - Professional Certification
+
 external_link: ""
 url_slides: ""
 links:
