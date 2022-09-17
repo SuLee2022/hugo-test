@@ -1,18 +1,16 @@
 ---
 slides: example
 url_pdf: ""
-date: 2016-04-27T00:00:00.000Z
+date: 2022-09-17T17:05:52.777Z
 summary: G﻿et job ready for and break into an in-demand career
 url_video: ""
-title: IBF ETHEREUM BLOCKCHAIN SMART CONTRACT PROGRAMMING CERTIFICATE
+title: WSQ FOOD HYGIENE CERTIFICATE (Level 1)
 subtitle: Professional Certification
 featured: true
 tags:
   - Professional Certification
 external_link: ""
 url_slides: ""
-categories:
-  - Professional Certification
 links:
   - icon: linkedin
     icon_pack: fab
