@@ -8,9 +8,7 @@ title: WSQ FOOD HYGIENE CERTIFICATE (Level 1)
 subtitle: Professional Certification
 featured: true
 tags:
-  - Industry Certification
-  - Business
-  - Arts
+  - Professional Certification
 external_link: ""
 url_slides: ""
 links:
