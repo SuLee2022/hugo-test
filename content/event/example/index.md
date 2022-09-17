@@ -6,7 +6,7 @@ abstract: |-
 slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
-title: "Digital Marketing Specialist - 1st Oct "
+title: Digital Marketing Specialist - 1st Oct
 location: "Where: Address"
 date: 2030-10-01T01:00:00.000Z
 date_end: 2030-12-24T15:00:00.000Z
