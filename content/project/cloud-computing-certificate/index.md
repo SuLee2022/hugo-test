@@ -4,7 +4,7 @@ url_pdf: ""
 date: 2022-09-17T17:02:55.463Z
 summary: G﻿et job ready for and break into an in-demand career
 url_video: ""
-title: CLOUD COMPUTING CERTIFICATE
+title: CYBER SECURITY CERTIFICATE (ETHICAL HACKER CEH v11)
 subtitle: Professional Certification
 featured: true
 tags:
