@@ -8,11 +8,11 @@ title: IBF ETHEREUM BLOCKCHAIN SMART CONTRACT PROGRAMMING CERTIFICATE
 subtitle: Professional Certification
 featured: true
 tags:
-  - Industry Certification
+  - Professional Certification
 external_link: ""
 url_slides: ""
 categories:
-  - Industry Certification
+  - Professional Certification
 links:
   - icon: linkedin
     icon_pack: fab
