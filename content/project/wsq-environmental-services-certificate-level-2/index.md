@@ -4,7 +4,7 @@ url_pdf: ""
 date: 2022-09-17T17:05:52.777Z
 summary: G﻿et job ready for and break into an in-demand career
 url_video: ""
-title: WSQ ENVIRONMENTAL SERVICES CERTIFICATE (Level 2)
+title: WSQ ENVIRONMENTAL SERVICES CERTIFICATE (Level 4)
 subtitle: Professional Certification
 featured: true
 tags:
