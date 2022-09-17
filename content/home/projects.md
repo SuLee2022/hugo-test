@@ -11,10 +11,12 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Professional Certification
+      tag: Professional Certification
+    - name: Business
+      tag: Business
+    - name: Arts
+      tag: Arts
 design:
   columns: "1"
   view: 2
