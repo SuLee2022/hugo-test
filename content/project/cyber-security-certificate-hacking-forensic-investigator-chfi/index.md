@@ -8,9 +8,7 @@ title: CYBER SECURITY CERTIFICATE (HACKING FORENSIC INVESTIGATOR (CHFI)))
 subtitle: Professional Certification
 featured: true
 tags:
-  - Industry Certification
-  - Business
-  - Arts
+  - Professional Certification
 external_link: ""
 url_slides: ""
 links:
