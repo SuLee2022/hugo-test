@@ -1,11 +1,11 @@
 ---
 slides: example
 url_pdf: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 summary: G﻿et job ready for and break into an in-demand career
 url_video: ""
-title: Professional Certificates
-subtitle: G﻿et job ready for and break into an in-demand career
+title: IBF ETHEREUM BLOCKCHAIN SMART CONTRACT PROGRAMMING CERTIFICATE
+subtitle: Professional Certification
 featured: true
 tags:
   - Industry Certification
