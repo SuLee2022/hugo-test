@@ -13,6 +13,6 @@ subtitle: "Take one of WA's range of professional development courses to learn
 design:
   background:
     image: screenshot-2022-09-18-000406.jpg
-    text_color_light: false
-    image_darken: 0.8
+    text_color_light: true
+    image_darken: 1
 ---
