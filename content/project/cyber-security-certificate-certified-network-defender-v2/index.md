@@ -8,9 +8,7 @@ title: CYBER SECURITY CERTIFICATE (CERTIFIED NETWORK DEFENDER v2)
 subtitle: Professional Certification
 featured: true
 tags:
-  - Industry Certification
-  - Business
-  - Arts
+  - Professional Certification
 external_link: ""
 url_slides: ""
 links:
