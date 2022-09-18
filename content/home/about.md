@@ -1,5 +1,5 @@
 ---
-widget: about
+widget: blank
 active: true
 author: admin
 widget_id: home-about
