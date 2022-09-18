@@ -4,7 +4,7 @@ widget_id: home-filter
 headless: true
 weight: 2
 title: "Professional Certificates "
-subtitle: G﻿et job ready for and break into an in-demand career
+subtitle: Get job-ready and break into an in-demand career
 content:
   page_type: project
   filter_default: 0
