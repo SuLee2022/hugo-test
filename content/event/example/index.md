@@ -1,5 +1,5 @@
 ---
-abstract: |-
+About: 
   Course description 
 
   Register by mid September. 
@@ -7,7 +7,7 @@ slides: ""
 url_pdf: ""
 summary: Register by mid September
 title: Digital Marketing Specialist - 1st Oct
-location: "Where: Address XX"
+location: "Address XX"
 date: 2030-10-01T01:00:00.000Z
 date_end: 2030-12-24T15:00:00.000Z
 all_day: false
@@ -24,7 +24,7 @@ address:
   country: Singapore
 links: []
 publishDate: 2022-09-17T16:21:40.084Z
-tags: []
+tags: Business
 projects: []
 image:
   caption: ""
