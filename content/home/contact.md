@@ -25,31 +25,24 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: test@example.gmail
+  phone: 65 888 888
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
+    street: XX
+    city: Singapore 
     postcode: '94305'
-    country: United States
-    country_code: US
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    country: Singapore 
+  directions: Enter XX Building and take the lift to Office xx on Floor xx
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    - 'Weekdays 09:00 to 17:00'
   contact_links:
-    - icon: twitter
+    - icon: linkedin
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
+      name: DM 
+      link: 'https://linkedin.com'
     - icon: video
       icon_pack: fas
-      name: Zoom Me
+      name: Zoom
       link: 'https://zoom.com'
 
 design:
