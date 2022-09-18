@@ -15,9 +15,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-organizations: []
-education:
-  courses: []
 email: example@gmail.com
 superuser: false
 highlight_name: true
