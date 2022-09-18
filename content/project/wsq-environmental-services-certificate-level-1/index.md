@@ -2,13 +2,13 @@
 slides: example
 url_pdf: ""
 date: 2022-09-17T17:05:24.853Z
-summary: G﻿et job ready for and break into an in-demand career
+summary: Get job-ready and break into an in-demand career
 url_video: ""
 title: WSQ ENVIRONMENTAL SERVICES CERTIFICATE (Level 1)
 subtitle: Professional Certification
 featured: true
 tags:
-  - Industry Certification
+  - Professional Certification
   - Business
   - Arts
 external_link: ""
