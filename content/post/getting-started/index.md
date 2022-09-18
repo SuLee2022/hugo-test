@@ -1,6 +1,6 @@
 ---
 title: Professional Certification
-subtitle: G﻿et job ready for and break into an in-demand career
+subtitle: Get job-ready and break into an in-demand career
 date: 2022-09-17T16:32:43.398Z
 summary: .
 draft: false
@@ -10,7 +10,7 @@ authors:
   - SuLee
 lastmod: 2020-12-13T00:00:00.000Z
 tags:
-  - Professional Certificate
+  - Professional Certification
 categories: []
 projects: []
 image:
