@@ -11,7 +11,7 @@ authors:
   - SuLee
 lastmod: 2020-12-13T00:00:00.000Z
 tags:
-  - Business Course
+  - Business
 categories: []
 projects: []
 image:
