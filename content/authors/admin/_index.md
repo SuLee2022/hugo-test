@@ -1,8 +1,5 @@
 ---
 title: About
-role: ""
-bio: ""
-interests: []
 social:
   - icon: envelope
     icon_pack: fas
