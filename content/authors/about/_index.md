@@ -1,4 +1,7 @@
 ---
+widget: blank
+headless: true
+weight: 20
 title: About
 social:
   - icon: envelope
