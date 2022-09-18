@@ -6,16 +6,16 @@ title: "We collaborate with 20+ leading training providers in Singapore "
 subtitle: ""
 feature:
   - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
+    icon: building
+    icon_pack: fas
+    name: XX School of Business 
   - description: 100%
     icon: chart-line
     icon_pack: fas
-    name: Statistics
+    name: XX School of Statistics
   - description: 10%
     icon: camera-retro
     icon_pack: fas
-    name: Photography
+    name: Photography Studio
 widget_id: home-course_providers
 ---
