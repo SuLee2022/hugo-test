@@ -3,7 +3,7 @@ widget: portfolio
 widget_id: home-filter
 headless: true
 weight: 2
-title: "Professional Certificates "
+title: "Courses "
 subtitle: Get job-ready and break into an in-demand career
 content:
   page_type: project
