@@ -5,9 +5,9 @@ abstract: |-
   Register by mid September. 
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: Register by mid September
 title: Digital Marketing Specialist - 1st Oct
-location: "Where: Address"
+location: "Where: Address XX"
 date: 2030-10-01T01:00:00.000Z
 date_end: 2030-12-24T15:00:00.000Z
 all_day: false
@@ -18,11 +18,10 @@ authors: []
 url_video: ""
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
+  street: XXX 
+  city: Singapore
   postcode: "94305"
-  country: United States
+  country: Singapore
 links: []
 publishDate: 2022-09-17T16:21:40.084Z
 tags: []
